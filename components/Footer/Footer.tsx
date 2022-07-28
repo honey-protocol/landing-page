@@ -28,7 +28,7 @@ const Footer = () => {
             <a href="https://discord.com/invite/T7RQ8hMamB">
               <img src="/img/Footer/Discord.svg" />
             </a>
-            <img src="/img/Footer/Telegram.svg" />
+
             <a href="https://twitter.com/honeydefi">
               <img src="/img/Footer/Twitter.svg" />
             </a>
