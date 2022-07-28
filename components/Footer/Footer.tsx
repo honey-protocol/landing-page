@@ -18,7 +18,7 @@ const Footer = () => {
               Documentation <RedirectArrowIcon />
             </a>
             <a
-              href="https://tomjpandolfi.com/whitepaper-peer-to-contract-nft-collateral-and-lending-fdd6054328b0"
+              href="https://drive.google.com/file/d/1dN0W9enyq2Q71VXegm6bJL6zUcbRZMkm/view"
               className="flex items-center  rounded-lg bg-[#0000001A] px-6 py-2"
             >
               Whitepaper <RedirectArrowIcon />
