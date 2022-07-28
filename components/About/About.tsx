@@ -51,7 +51,7 @@ const About = () => {
                     NFT Pools
                   </h4>
                   <p className="text-md text-primary-paragraph mt-4">
-                    Borrow from pools of liquidity at a variable interest rate.
+                    Earn yield by staking NFTs for collection rewards.
                   </p>
                 </div>
               </div>

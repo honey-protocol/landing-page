@@ -31,13 +31,13 @@ const Header = () => {
           href="https://github.com/honey-labs"
           className="cursor-pointer hover:font-medium"
             >
-          Developer
+          Developers
         </a>
         <a
           href="https://blog.honey.finance/"
           className="cursor-pointer hover:font-medium"
         >
-          Blogs
+          Blog
         </a>
       </div>
       <a

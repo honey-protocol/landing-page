@@ -23,12 +23,12 @@ const MobileNavMenu = () => {
     >
       <div className="flex flex-col items-center gap-10">
         <a className="cursor-pointer hover:font-medium">Governance</a>
-        <a className="cursor-pointer hover:font-medium">Developer</a>
+        <a className="cursor-pointer hover:font-medium">Developers</a>
         <a
           href="https://blog.honey.finance/"
           className="cursor-pointer hover:font-medium"
         >
-          Blogs
+          Blog
         </a>
       </div>
 

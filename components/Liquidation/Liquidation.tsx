@@ -71,7 +71,7 @@ const Liquidation = () => {
                 </p>
                 <p className="text-lg text-primary-paragraph mt-5 text-center">
                   No need to flip NFTs, you can now invest in the long term
-                  without sacrificing your liquidity
+                  without sacrificing your liquidity.
                 </p>
               </div>
             </div>
