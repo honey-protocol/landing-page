@@ -9,7 +9,7 @@ const About = () => {
           Borrow against your NFTs
         </h1>
         <p className="text-lg mb-14 text-center mx-auto text-primary-paragraph   w-full">
-          {`Honey Finance allows users to obtain instant liquidity on Defi's most illiquid assests, enabling loans to be issued in the metaverse.`}
+          {`Honey Finance allows users to obtain instant liquidity on DeFi's most illiquid assests, enabling loans to be issued in the metaverse.`}
         </p>
         <div className="flex flex-col md:flex-row w-full p-10 lg:p-0">
           <div className="bg-primary mb-10 md:mb-0  w-full md:max-w-[372px] min-h-full rounded mr-7">
