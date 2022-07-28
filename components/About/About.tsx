@@ -23,6 +23,10 @@ const About = () => {
                   Lenders earn yield by single staking WETH or USDC, while
                   borrowers can take out loans with their NFTs as collateral.
                 </p>
+                <p className="text-md text-primary-paragraph mt-3">
+                  Honey also enables tokenised strucutred products  to be collateralised, creating a new layer of liquidity for financial derivatives.
+
+                </p>
               </div>
             </div>
           </div>
@@ -47,7 +51,7 @@ const About = () => {
                     NFT Pools
                   </h4>
                   <p className="text-md text-primary-paragraph mt-4">
-                    Borrow from pools of liquidity at a variable interest rate
+                    Borrow from pools of liquidity at a variable interest rate.
                   </p>
                 </div>
               </div>
@@ -58,7 +62,7 @@ const About = () => {
                     Liquid Assets in DeFi
                   </h4>
                   <p className="text-md text-primary-paragraph mt-4">
-                    Earn rewards for directing liquidity across NFT x DeFi
+                    Earn rewards for directing liquidity across our markets.
                   </p>
                 </div>
               </div>
