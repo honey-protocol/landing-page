@@ -14,7 +14,7 @@ const Stats = () => {
                 TVL
               </p>
               <h6 className="font-medium text-white text-2xl xl:text-[44px]">
-                3M+
+                ...
               </h6>
             </div>
             <div className="w-fit mb-11 mt-8">
@@ -22,7 +22,7 @@ const Stats = () => {
                 NFTs Deposited
               </p>
               <h6 className="font-medium  text-center lg:text-left text-white text-2xl xl:text-[44px]">
-                40k
+                ...
               </h6>
             </div>
             <div className="w-fit mb-11 mt-8">
@@ -30,7 +30,7 @@ const Stats = () => {
                 Daily Transactions
               </p>
               <h6 className="font-medium  text-center lg:text-left text-white text-2xl xl:text-[44px]">
-                10.5k+
+                ...
               </h6>
             </div>
           </div>
@@ -39,7 +39,7 @@ const Stats = () => {
               <div className="px-3 h-full w-full bg-white rounded border border-black translate-y-[-4px] translate-x-[-4px]">
                 <div className="w-full flex flex-wrap justify-between items-center mb-5 mt-7">
                   <h6 className="font-bold text-2xl">DegenApe</h6>
-                  <p className="text-primary-paragraph text-base">@98BD86</p>
+                  <p className="text-primary-paragraph text-base">ESe...DuH</p>
                 </div>
                 <img className=" object-contain w-full" src="/img/1.png" />
                 <div className="w-full mb-7 mt-5">
@@ -52,12 +52,12 @@ const Stats = () => {
               <div className="px-3 h-full w-full bg-white rounded border border-black translate-y-[-4px] translate-x-[-4px]">
                 <div className="w-full flex flex-wrap justify-between items-center mb-5 mt-7">
                   <h6 className="font-bold text-2xl">DeGods</h6>
-                  <p className="text-primary-paragraph text-base">@super</p>
+                  <p className="text-primary-paragraph text-base">@HGE.sol</p>
                 </div>
                 <img className=" object-contain w-full" src="/img/2.png" />
                 <div className="w-full mb-7 mt-5">
                   <p className="text-primary-paragraph text-base">Avg. Value</p>
-                  <h6 className="font-medium text-[20px]">1380 SOL</h6>
+                  <h6 className="font-medium text-[20px]">288 SOL</h6>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ const Stats = () => {
               <div className="px-3 h-full w-full bg-white rounded border border-black translate-y-[-4px] translate-x-[-4px]">
                 <div className="w-full flex flex-wrap justify-between items-center mb-5 mt-7">
                   <h6 className="font-bold text-2xl">Phunk</h6>
-                  <p className="text-primary-paragraph text-base">@AshM</p>
+                  <p className="text-primary-paragraph text-base">0xD62...5a5</p>
                 </div>
                 <img className=" object-contain w-full" src="/img/3.png" />
                 <div className="w-full mb-7 mt-5">
@@ -80,7 +80,7 @@ const Stats = () => {
           <div className="px-3 w-full lg:max-w-[345px] bg-white rounded border border-black translate-y-[-4px] translate-x-[-4px]">
             <div className="w-full flex flex-wrap justify-between items-center mb-8 mt-11">
               <h6 className="font-bold text-3xl lg:text-4xl">Azuki</h6>
-              <p className="text-primary-paragraph text-2xl">@manchanda</p>
+              <p className="text-primary-paragraph text-2xl">0xFa0...2A0</p>
             </div>
             <img className=" object-contain w-full" src="/img/Azuki.png" />
             <div className="w-full mb-11 mt-8">

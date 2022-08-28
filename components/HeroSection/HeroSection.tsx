@@ -11,7 +11,7 @@ const HeroSection = () => {
       <div className="flex">
         <div className="w-full relative  z-1">
           <h1 className="text-4xl lg:text-5xl text-center md:text-left mb-4 font-semibold max-w-[713px] w-full">
-            Scalable NFT lending and borrowing
+            Lending and borrowing for illiquid assets
           </h1>
           <p className="text-lg text-primary-paragraph text-center md:text-left mb-7 md:mb-14 max-w-prose w-full">
             Honey is empowering NFT collectors with simple financial tools to
