@@ -39,6 +39,12 @@ const Header = () => {
         >
           Blog
         </a>
+        <a
+          href="https://www.notion.so/honey-resources/Honey-Resources-3856fb63153944e5bd1f9792830b2328"
+          className="cursor-pointer hover:font-medium"
+        >
+          Resources
+        </a>
       </div>
       <a
         href="https://app.honey.finance/farm"
