@@ -45,6 +45,12 @@ const Header = () => {
         >
           Resources
         </a>
+        <a
+          href="https://angel.co/company/honeylabs/jobs"
+          className="cursor-pointer hover:font-medium"
+        >
+          Careers
+        </a>
       </div>
       <a
         href="https://app.honey.finance/farm"

@@ -46,10 +46,10 @@ const Footer = () => {
               </h4>
               <p className="text-xs text-primary-paragraph text-center">
                 Governed by veHONEY, the DAO allows stakeholders to vote on
-                strategy, treasury, emissions, risk parameters for the protocol.
+                strategy, treasury, emissions and risk parameters for the protocol.
               </p>
               <p className="text-xs text-primary-paragraph mt-5 text-center">
-                {`The DAO allows open source contributors to participate in the development of Honey Finance, paying bounties and incentives to it's builders.`}
+                {`The DAO allows open source contributors to participate in the development of Honey Finance, paying bounties and incentives to its builders.`}
               </p>
             </div>
           </div>
@@ -64,7 +64,7 @@ const Footer = () => {
               </h4>
               <p className="text-xs text-primary-paragraph text-center">
                 Honey Labs builds the protocol and proposes changes to the DAO.
-                It oversees day to day operations and version updates.
+                It is tasked with overseeing day to day operations and version updates.
               </p>
               <p className="text-xs text-primary-paragraph text-center mt-5">
                 Honey Labs also develops privatised lending markets for

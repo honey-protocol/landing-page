@@ -15,7 +15,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg text-primary-paragraph text-center md:text-left mb-7 md:mb-14 max-w-prose w-full">
             Honey is empowering NFT collectors with simple financial tools to
-            participate in DeFi.
+            participate in DeFi cross-chain.
           </p>
           <div className="flex z-1 justify-center md:justify-start">
             <Button
