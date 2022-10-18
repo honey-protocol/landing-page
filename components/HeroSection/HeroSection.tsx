@@ -20,7 +20,7 @@ const HeroSection = () => {
           <div className="flex z-1 justify-center md:justify-start">
             <Button
               onClick={() => {
-                window.open("https://app.honey.finance/farm")
+                window.open("https://beta.honey.finance/")
               }}
               className="mr-9"
             >

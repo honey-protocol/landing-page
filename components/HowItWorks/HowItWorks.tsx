@@ -40,7 +40,7 @@ const HowItWorks = () => {
         <div className="text-center sm:text-left">
           <h4 className="text-white font-bold text-xl">Borrowing</h4>
           <p className="text-[#fafafa] opacity-[0.45] max-w-prose text-sm font-semibold">
-            {`Interest accrues on the borrower's debt. It must be repaid to withdraw the collateral`}
+            {`Interest accrues on the borrower's debt. It must be repaid to withdraw the collateral.`}
           </p>
         </div>
       </div>
