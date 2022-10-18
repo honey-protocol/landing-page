@@ -34,7 +34,7 @@ const HowItWorks = () => {
           <h4 className="text-white font-bold text-xl">Collateral</h4>
           <p className="text-[#fafafa] opacity-[0.45] max-w-prose text-sm font-semibold">
             Borrowers deposit NFT collateral to withdraw capital from lending
-            pools.
+            markets.
           </p>
         </div>
         <div className="text-center sm:text-left">

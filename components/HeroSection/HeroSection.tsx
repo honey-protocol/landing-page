@@ -11,11 +11,11 @@ const HeroSection = () => {
       <div className="flex">
         <div className="w-full relative  z-1">
           <h1 className="text-4xl lg:text-5xl text-center md:text-left mb-4 font-semibold max-w-[713px] w-full">
-            Lending and borrowing for illiquid assets
+            Lending and borrowing for NFTs
           </h1>
           <p className="text-lg text-primary-paragraph text-center md:text-left mb-7 md:mb-14 max-w-prose w-full">
             Honey is empowering NFT collectors with simple financial tools to
-            participate in DeFi cross-chain.
+            participate in multichain DeFi.
           </p>
           <div className="flex z-1 justify-center md:justify-start">
             <Button
@@ -24,7 +24,7 @@ const HeroSection = () => {
               }}
               className="mr-9"
             >
-              Explore app
+              Try beta
             </Button>
             <Button ghost
             onClick={() => {

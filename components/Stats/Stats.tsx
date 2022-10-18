@@ -90,7 +90,7 @@ const Stats = () => {
           </div>
         </div>
       </div>
-      <Button className="mx-auto my-24">EXPLORE POOLS ON HONEY</Button>
+      <Button className="mx-auto my-24">EXPLORE MARKETS ON HONEY</Button>
     </div>
   )
 }
