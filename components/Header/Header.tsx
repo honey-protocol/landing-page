@@ -22,13 +22,13 @@ const Header = () => {
       />
       <div className="grid-flow-col gap-10 relative hidden md:grid">
         <a
-          href="https://app.honey.finance/governance"
+          href="https://beta.honey.finance/governance"
           className="cursor-pointer hover:font-medium"
           >
             Governance
         </a>
         <a
-          href="https://github.com/honey-labs"
+          href="https://github.com/honey-protocol"
           className="cursor-pointer hover:font-medium"
             >
           Developers
@@ -53,7 +53,7 @@ const Header = () => {
         </a>
       </div>
       <a
-        href="https://app.honey.finance/farm"
+        href="https://beta.honey.finance/"
         className="bg-black relative hidden md:flex px-5 shadow-[inset_1px_1px_1px_#E7B400] py-2 text-white uppercase text-sm"
       >
         GO TO APP
