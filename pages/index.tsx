@@ -16,7 +16,7 @@ const Home: NextPage = () => {
       <Header />
       <MobileNavMenu />
       <HeroSection />
-      <FeaturedIn />
+      {/* <FeaturedIn /> */}
       <About />
       <Liquidation />
       <Stats />
