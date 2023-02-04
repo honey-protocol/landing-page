@@ -17,14 +17,14 @@ const About = () => {
               <h4 className="font-bold text-2xl md:text-3xl mb-6">NFT Loans</h4>
               <div>
                 <p className="text-md text-primary-paragraph">
-                  Borrow from pools of liquidity at a variable interest rate
+                  Borrow from pools of liquidity at variable interest rates.
                 </p>
                 <p className="text-md text-primary-paragraph mt-3">
                   Lenders earn yield by single staking WETH or USDC, while
                   borrowers can take out loans with their NFTs as collateral.
                 </p>
                 <p className="text-md text-primary-paragraph mt-3">
-                  Honey also enables tokenised structured products  to be collateralised, creating a new layer of liquidity for financial derivatives.
+                  Honey enables tokenised structured products  to be collateralised, creating a new layer of liquidity for financial derivatives.
 
                 </p>
               </div>
@@ -34,7 +34,7 @@ const About = () => {
             <div className="bg-primary mb-[30px] w-full flex flex-1 rounded">
               <div className="border border-black translate-x-[-4px] flex flex-col justify-start translate-y-[-4px] w-full rounded px-[37px] bg-white py-[22px]">
                 <h4 className="font-bold text-2xl md:text-3xl mb-[10px]">
-                  Yield Vaults
+                  Yield Vaults (coming soon)
                   
                   
                 </h4>
