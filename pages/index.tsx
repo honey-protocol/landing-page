@@ -21,7 +21,7 @@ const Home: NextPage = () => {
       <Liquidation />
       <Stats />
       <HowItWorks />
-      <ParteneredWith />
+      {/* <ParteneredWith /> */}
       <Footer />
     </div>
   )
