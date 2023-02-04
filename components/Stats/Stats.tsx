@@ -90,7 +90,9 @@ const Stats = () => {
           </div>
         </div>
       </div>
-      <Button className="mx-auto my-24">EXPLORE MARKETS ON HONEY</Button>
+      <Button className="mx-auto my-24" onClick={() => {
+                window.open("https://beta.honey.finance/")
+              }}>EXPLORE MARKETS ON HONEY</Button>
     </div>
   )
 }
