@@ -18,21 +18,21 @@ const HeroSection = () => {
           by connecting them to global markets
           </p>
           <div className="flex z-1 justify-center md:justify-start">
-            <Button
+            <Button style={{backgroundColor: "#9F65F7", borderColor: "#9F65F7"}}
               onClick={() => {
                 window.open("https://beta.honey.finance/")
               }}
               className="mr-9"
             >
-              Try beta
+              Solana
             </Button>
-            <Button ghost
+            <Button style={{backgroundColor: "#509EEA", borderColor: "#509EEA"}}
             onClick={() => {
-              window.open("https://docs.honey.finance")
+              window.open("https://app.honey.finance")
             }}
             className="mr-9"
           >
-            Learn more
+            Arbitrum
           </Button>
           </div>
         </div>

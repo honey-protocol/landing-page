@@ -33,10 +33,10 @@ const MobileNavMenu = () => {
       </div>
 
       <a
-        href="https://beta.honey.finance/"
+        href="https://docs.honey.finance/"
         className="bg-black relative px-5 shadow-[inset_1px_1px_1px_#E7B400] flex gap-3 py-2 text-white uppercase text-sm"
       >
-        GO TO APP
+        Read docs
         <RedirectArrowIcon />
       </a>
     </div>
