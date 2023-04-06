@@ -1,5 +1,5 @@
-import React from "react"
-import Button from "../Button/Button"
+import React from "react";
+import Button from "../Button/Button";
 
 const HeroSection = () => {
   return (
@@ -14,26 +14,37 @@ const HeroSection = () => {
             Lending and borrowing for NFTS
           </h1>
           <p className="text-lg text-primary-paragraph text-center md:text-left mb-7 md:mb-14 max-w-prose w-full">
-          Honey empowers people to monetise their most valuable assets
-          by connecting them to global markets
+            Honey empowers people to utilize their most valuable assets by
+            connecting them to global markets
           </p>
           <div className="flex z-1 justify-center md:justify-start">
-            <Button style={{backgroundColor: "#9F65F7", borderColor: "#9F65F7"}}
+            <Button
+              style={{ backgroundColor: "#509EEA", borderColor: "#509EEA" }}
               onClick={() => {
-                window.open("https://beta.honey.finance/")
+                window.open("https://arbitrum.honey.finance");
+              }}
+              className="mr-9"
+            >
+              Arbitrum
+            </Button>
+            <Button
+              style={{ backgroundColor: "#9F65F7", borderColor: "#9F65F7" }}
+              onClick={() => {
+                window.open("https://polygon.honey.finance/");
+              }}
+              className="mr-9"
+            >
+              Polygon
+            </Button>{" "}
+            <Button
+              style={{ backgroundColor: "#25ee99", borderColor: "#25ee99" }}
+              onClick={() => {
+                window.open("https://solana.honey.finance/");
               }}
               className="mr-9"
             >
               Solana
             </Button>
-            <Button style={{backgroundColor: "#509EEA", borderColor: "#509EEA"}}
-            onClick={() => {
-              window.open("https://app.honey.finance")
-            }}
-            className="mr-9"
-          >
-            Arbitrum
-          </Button>
           </div>
         </div>
       </div>
@@ -44,7 +55,7 @@ const HeroSection = () => {
         />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export { HeroSection }
+export { HeroSection };
