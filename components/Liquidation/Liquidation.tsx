@@ -29,10 +29,10 @@ const Liquidation = () => {
                   Capital locked up in NFTs is missing out on all of the
                   opportunities in DeFi.
                 </p>
-                <p className="text-lg text-primary-paragraph mt-5 text-center">
+                {/* <p className="text-lg text-primary-paragraph mt-5 text-center">
                   Unlocking liquidity from NFTs allows you to earn yield, or
                   participate in the next NFT mint.
-                </p>
+                </p> */}
               </div>
             </div>
             <div
@@ -49,10 +49,10 @@ const Liquidation = () => {
                   NFTs cannot be traded easily. Borrowing against an NFT in your
                   collection means you no longer have to sell it!
                 </p>
-                <p className="text-lg text-primary-paragraph mt-5 text-center">
+                {/* <p className="text-lg text-primary-paragraph mt-5 text-center">
                   Collateralisation also means less listings, reducing the
                   volatility of supported collections.
-                </p>
+                </p> */}
               </div>
             </div>
             <div
@@ -69,10 +69,10 @@ const Liquidation = () => {
                   Borrowing against NFTs allow collectors to profit from rising
                   prices without needing to cash out early.
                 </p>
-                <p className="text-lg text-primary-paragraph mt-5 text-center">
+                {/* <p className="text-lg text-primary-paragraph mt-5 text-center">
                   No need to flip NFTs, you can now invest in the long term
                   without sacrificing your liquidity.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>

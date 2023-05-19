@@ -14,8 +14,7 @@ const HeroSection = () => {
             Lending and borrowing for NFTS
           </h1>
           <p className="text-lg text-primary-paragraph text-center md:text-left mb-7 md:mb-14 max-w-prose w-full">
-            Honey empowers people to utilize their most valuable assets by
-            connecting them to global markets
+              Create lending pools by pairing any NFT and any fungible token together.
           </p>
           <div className="flex z-1 justify-center md:justify-start">
             <Button

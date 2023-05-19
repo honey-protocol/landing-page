@@ -20,11 +20,10 @@ const About = () => {
                   Borrow from pools of liquidity at variable interest rates.
                 </p>
                 <p className="text-md text-primary-paragraph mt-3">
-                  Lenders earn yield by single staking WETH or USDC, while
-                  borrowers can take out loans with their NFTs as collateral.
+                  Lenders earn high yields by providing liquidity to illiquid assets. Borrowers obtain liquidity for their non-fungible tokens.
                 </p>
                 <p className="text-md text-primary-paragraph mt-3">
-                  Honey enables tokenised structured products  to be collateralised, creating a new layer of liquidity for financial derivatives.
+                  Collateral on Honey is arbitrary, allowing structured products, yield vaults, bonds, etc. to be collateralised. This creates a new layer of liquidity for financial derivatives.
 
                 </p>
               </div>
@@ -34,7 +33,7 @@ const About = () => {
             <div className="bg-primary mb-[30px] w-full flex flex-1 rounded">
               <div className="border border-black translate-x-[-4px] flex flex-col justify-start translate-y-[-4px] w-full rounded px-[37px] bg-white py-[22px]">
                 <h4 className="font-bold text-2xl md:text-3xl mb-[10px]">
-                  Yield Vaults (coming soon)
+                  Insurance Vaults (coming soon)
                   
                   
                 </h4>
@@ -48,10 +47,10 @@ const About = () => {
               <div className="bg-primary flex  w-1/2  rounded mr-7">
                 <div className="border border-black translate-x-[-4px]  translate-y-[-4px] flex-1 w-full rounded px-[27px] bg-white py-5 flex flex-col justify-start">
                   <h4 className="font-bold text-2xl md:text-2xl text-center md:text-left mx-auto lg:mx-0 ">
-                    NFT Pools
+                    Hivemind
                   </h4>
                   <p className="text-md text-primary-paragraph mt-4">
-                    Earn yield by staking NFTs for collection rewards.
+                    Honey Labs is building Hivemind, a multi-chain pricing product for NFTs.
                   </p>
                 </div>
               </div>

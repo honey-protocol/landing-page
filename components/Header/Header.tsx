@@ -22,7 +22,7 @@ const Header = () => {
       />
       <div className="grid-flow-col gap-10 relative hidden md:grid">
         <a
-          href="https://beta.honey.finance/governance"
+          href="https://discord.gg/honeydefi"
           className="cursor-pointer hover:font-medium"
           >
             Governance
@@ -40,7 +40,7 @@ const Header = () => {
           Blog
         </a>
         <a
-          href="https://www.notion.so/honey-resources/Honey-Resources-3856fb63153944e5bd1f9792830b2328"
+          href="https://link3.to/honey"
           className="cursor-pointer hover:font-medium"
         >
           Resources
