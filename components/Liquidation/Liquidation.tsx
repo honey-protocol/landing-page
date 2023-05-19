@@ -12,7 +12,7 @@ const Liquidation = () => {
             src="/img/honeycoin.svg"
           />
           <h2 className="w-full text-center font-bold text-3xl lg:text-5xl mb-20 ">
-            Honey's Solution
+            Honey Finance
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
             <div
