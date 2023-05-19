@@ -12,7 +12,7 @@ const Liquidation = () => {
             src="/img/honeycoin.svg"
           />
           <h2 className="w-full text-center font-bold text-3xl lg:text-5xl mb-20 ">
-            NFT Liquidity Solution
+            Honey's Solution
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
             <div
@@ -23,11 +23,10 @@ const Liquidation = () => {
               >
 
                 <h4 className="text-2xl lg:text-3xl text-center mb-4 font-bold">
-                  Opportunity Cost
+                  Liquidation Protection
                 </h4>
                 <p className="text-lg text-primary-paragraph text-center">
-                  Capital locked up in NFTs is missing out on all of the
-                  opportunities in DeFi.
+                  Lenders no longer have to worry about receiving bad collateral. The protocol aggregates liquidation routes.
                 </p>
                 {/* <p className="text-lg text-primary-paragraph mt-5 text-center">
                   Unlocking liquidity from NFTs allows you to earn yield, or
@@ -43,11 +42,11 @@ const Liquidation = () => {
               >
 
                 <h4 className="text-2xl lg:text-3xl  text-center mb-4 font-bold">
-                  Non-fungibility{" "}
+                  Low Rates{" "}
                 </h4>
                 <p className="text-lg text-primary-paragraph text-center">
-                  NFTs cannot be traded easily. Borrowing against an NFT in your
-                  collection means you no longer have to sell it!
+                  No more 200%+ peer-to-peer rates for borrowers. <br/>Borrowers are no longer limited by high interest, fixed term loans.
+
                 </p>
                 {/* <p className="text-lg text-primary-paragraph mt-5 text-center">
                   Collateralisation also means less listings, reducing the
@@ -63,11 +62,10 @@ const Liquidation = () => {
               >
 
                 <h4 className="text-2xl lg:text-3xl  text-center mb-4 font-bold">
-                  Unrealized Gains
+                  Permissionless
                 </h4>
                 <p className="text-lg text-primary-paragraph text-center">
-                  Borrowing against NFTs allow collectors to profit from rising
-                  prices without needing to cash out early.
+                  NFT lending should be for everyone, and every collection, not just bluechips. Honey supports all NFTs as collateral in a lending pool.
                 </p>
                 {/* <p className="text-lg text-primary-paragraph mt-5 text-center">
                   No need to flip NFTs, you can now invest in the long term
